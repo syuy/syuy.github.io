@@ -117,13 +117,6 @@
   </url>
   
   <url>
-    <loc>https://syuy.top/tags/%E6%95%B0%E8%AE%BA/</loc>
-    <lastmod>2023-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://syuy.top/tags/%E6%A8%A1%E6%8B%9F%E8%B5%9B/</loc>
     <lastmod>2023-04-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -132,6 +125,13 @@
   
   <url>
     <loc>https://syuy.top/tags/%E5%B0%8F%E7%BB%93/</loc>
+    <lastmod>2023-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://syuy.top/tags/%E6%95%B0%E8%AE%BA/</loc>
     <lastmod>2023-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
